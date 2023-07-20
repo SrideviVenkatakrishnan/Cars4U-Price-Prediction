@@ -1,4 +1,4 @@
-# Cars4U_PricePrediction_LinearRegression
+# Cars4U - Price Prediction using Linear Regression
 
 ## Problem Definition
 
